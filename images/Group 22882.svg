@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181" height="104" viewBox="0 0 181 104">
+  <defs>
+    <filter id="Path_36878" x="0" y="0" width="181" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="11" result="blur"/>
+      <feFlood flood-color="#ee1648" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_22882" data-name="Group 22882" transform="translate(-1255 -425.999)">
+    <g transform="matrix(1, 0, 0, 1, 1255, 426)" filter="url(#Path_36878)">
+      <path id="Path_36878-2" data-name="Path 36878" d="M19,0H96a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(33 26)" fill="#f01549"/>
+    </g>
+    <text id="اعرف_المزيد" data-name="اعرف المزيد" transform="translate(1382 474.999)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-69.33" y="0">اعرف المزيد</tspan></text>
+  </g>
+</svg>
